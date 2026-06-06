@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "email": "thiha30062006@gmail.com",
+      "passwordHash": "MzAwNjIwMDY=",
+      "name": "Nguyễn Phương Hà",
+      "_id": "usr_9oaroit44",
+      "createdAt": "2026-05-30T11:45:17.005Z",
+      "notifications": [
+        {
+          "id": "notif_welcome",
+          "message": "Chào mừng bạn Nguyễn Phương Hà đến với HustMemo! Bạn đã sẵn sàng học tập chưa?",
+          "type": "info",
+          "timestamp": "2026-05-30T11:45:17.005Z",
+          "read": false
+        }
+      ]
+    },
+    {
+      "email": "a@a.a",
+      "passwordHash": "YWFh",
+      "name": "a",
+      "_id": "usr_8aek43eqv",
+      "createdAt": "2026-06-06T08:05:42.456Z",
+      "notifications": [
+        {
+          "id": "notif_cron_1780737000049",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 3 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T09:10:00.049Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780736700088",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 3 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T09:05:00.088Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780736400107",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 3 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T09:00:00.107Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780735800100",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 6 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:50:00.100Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780735500073",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 6 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:45:00.073Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780735200079",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 6 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:40:00.079Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780734900064",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 6 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:35:00.064Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780734600064",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 6 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:30:00.064Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780734300070",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 6 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:25:00.070Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780734000105",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 1 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:20:00.105Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780733700094",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 1 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:15:00.094Z",
+          "read": false
+        },
+        {
+          "id": "notif_cron_1780733400068",
+          "message": "Hệ thống nhắc nhở tự động: Bạn đang có 1 thẻ Flashcards quá hạn cần ôn tập hôm nay! Đừng bỏ lỡ bài học nhé.",
+          "type": "cron",
+          "timestamp": "2026-06-06T08:10:00.068Z",
+          "read": false
+        },
+        {
+          "id": "notif_welcome",
+          "message": "Chào mừng bạn a đến với HustMemo! Bạn đã sẵn sàng học tập chưa?",
+          "type": "info",
+          "timestamp": "2026-06-06T08:05:42.456Z",
+          "read": false
+        }
+      ]
+    }
+  ],
+  "decks": [
+    {
+      "name": "Nhập môn AI",
+      "description": "Thuật toán tìm kiếm",
+      "userId": "usr_8aek43eqv",
+      "_id": "deck_dtce2xky7",
+      "createdAt": "2026-06-06T08:06:14.098Z"
+    },
+    {
+      "name": "ha",
+      "description": "d",
+      "userId": "usr_8aek43eqv",
+      "_id": "deck_ge9lkvdtr",
+      "createdAt": "2026-06-06T08:14:33.121Z"
+    },
+    {
+      "name": "giải",
+      "description": "",
+      "userId": "usr_8aek43eqv",
+      "_id": "deck_5j83wizt6",
+      "createdAt": "2026-06-06T08:18:00.452Z"
+    },
+    {
+      "name": "hà",
+      "description": "",
+      "userId": "usr_8aek43eqv",
+      "_id": "deck_12xnnqgto",
+      "createdAt": "2026-06-06T08:52:47.656Z"
+    }
+  ],
+  "cards": [
+    {
+      "deckId": "deck_dtce2xky7",
+      "question": "A",
+      "answer": "B",
+      "_id": "card_bqb6wv5c8",
+      "repetition": 0,
+      "interval": 0,
+      "efactor": 2.5,
+      "nextReview": "2026-06-06T08:06:59.245Z",
+      "createdAt": "2026-06-06T08:06:59.245Z"
+    },
+    {
+      "deckId": "deck_dtce2xky7",
+      "question": "Test Q1",
+      "answer": "Test A1",
+      "_id": "card_8zg41b6kv",
+      "repetition": 0,
+      "interval": 0,
+      "efactor": 2.5,
+      "nextReview": "2026-06-06T08:22:08.770Z",
+      "createdAt": "2026-06-06T08:22:08.770Z"
+    },
+    {
+      "deckId": "deck_dtce2xky7",
+      "question": "Test Q2",
+      "answer": "Test A2",
+      "_id": "card_h3rca8idu",
+      "repetition": 0,
+      "interval": 0,
+      "efactor": 2.5,
+      "nextReview": "2026-06-06T08:22:08.779Z",
+      "createdAt": "2026-06-06T08:22:08.779Z"
+    },
+    {
+      "deckId": "deck_5j83wizt6",
+      "question": "Giải tích 1 có bao nhiêu tín chỉ?",
+      "answer": "Học phần này có 4 tín chỉ.",
+      "_id": "card_kr86eroiq",
+      "repetition": 1,
+      "interval": 1,
+      "efactor": 2.5,
+      "nextReview": "2026-06-07T08:23:46.247Z",
+      "createdAt": "2026-06-06T08:23:19.531Z"
+    },
+    {
+      "deckId": "deck_5j83wizt6",
+      "question": "Đại học Bách khoa Hà Nội thành lập năm nào?",
+      "answer": "Năm 1956.",
+      "_id": "card_0srt1lu6s",
+      "repetition": 1,
+      "interval": 1,
+      "efactor": 2.6,
+      "nextReview": "2026-06-07T08:24:07.096Z",
+      "createdAt": "2026-06-06T08:23:19.540Z"
+    },
+    {
+      "deckId": "deck_5j83wizt6",
+      "question": "Spaced Repetition là gì?",
+      "answer": "Phương pháp lặp lại ngắt quãng giúp tăng khả năng ghi nhớ dài hạn.",
+      "_id": "card_ecex1mmqm",
+      "repetition": 1,
+      "interval": 1,
+      "efactor": 2.6,
+      "nextReview": "2026-06-07T08:53:35.084Z",
+      "createdAt": "2026-06-06T08:23:19.548Z"
+    },
+    {
+      "deckId": "deck_5j83wizt6",
+      "question": "Thuật toán ôn tập của HustMemo là gì?",
+      "answer": "Thuật toán SuperMemo-2 (SM-2).",
+      "_id": "card_ia0tfds29",
+      "repetition": 1,
+      "interval": 1,
+      "efactor": 2.5,
+      "nextReview": "2026-06-07T08:53:38.980Z",
+      "createdAt": "2026-06-06T08:23:19.554Z"
+    },
+    {
+      "deckId": "deck_5j83wizt6",
+      "question": "Mã học phần của Nhập môn CNTT là gì?",
+      "answer": "IT1110.",
+      "_id": "card_cdl4odi09",
+      "repetition": 1,
+      "interval": 1,
+      "efactor": 2.6,
+      "nextReview": "2026-06-07T08:53:41.609Z",
+      "createdAt": "2026-06-06T08:23:19.561Z"
+    }
+  ]
+}
